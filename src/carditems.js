@@ -1,6 +1,7 @@
 export const carditems = [
   {
     url: "/img.png",
+    timeline: "",
     year: "",
     title: "",
     ptext1: "",
@@ -9,6 +10,7 @@ export const carditems = [
   },
   {
     url: "/img1.png",
+    timeline: "/slider.svg",
     year: "1965",
     title: "The Golden Legacy",
     ptext1:
@@ -19,6 +21,7 @@ export const carditems = [
   },
   {
     url: "/img2.png",
+    timeline: "/slider1.svg",
     year: "1862",
     title: "The Crossroads of Destiny",
     ptext1:
@@ -29,6 +32,7 @@ export const carditems = [
   },
   {
     url: "/img3.png",
+    timeline: "/slider2.svg",
     year: "1872",
     title: "When Fate Intervened",
     ptext1:
@@ -39,6 +43,7 @@ export const carditems = [
   },
   {
     url: "/img4.png",
+    timeline: "/slider3.svg",
     year: "1872",
     title: "The Journey - A Tale of Courage and Tenacity",
     ptext1:

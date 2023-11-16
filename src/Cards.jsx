@@ -43,7 +43,7 @@ const Cards = ({ card }) => {
       </div>
 
       <div className="absolute inset-0 w-50 mt-80 h-50">
-        <Horizontal />
+        <Horizontal card={card}/>
       </div>
     </div>
   );
